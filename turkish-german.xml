@@ -3,6 +3,10 @@
    <entry>
       <word>burada</word>
       <translation>hier</translation>
+	  <example>
+		  <foreign>Burada iki araba var</foreign>
+		  <known>Hier sind zwei Autos</known>
+	  </example>
    </entry>
    <entry>
       <word>var</word>
