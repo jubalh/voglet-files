@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <voglet>
-   <entry>
-      <word>burada</word>
-      <translation>hier</translation>
-	  <example>
-		  <foreign>Burada iki araba var</foreign>
-		  <known>Hier sind zwei Autos</known>
-	  </example>
-   </entry>
-   <entry>
-      <word>var</word>
-      <translation>es gibt</translation>
-      <comment>spanisches "hay"</comment>
-   </entry>
+	<entry>
+		<word>
+			<foreign>burada</word>
+			<native>hier</translation>
+		</word>
+		<sentence>
+			<foreign>Burada iki araba var</foreign>
+			<known>Hier sind zwei Autos</known>
+		</sentence>
+	</entry>
+	<entry>
+		<word>
+			<foreign>var</word>
+			<native>es gibt</translation>
+		</word>
+		<comment>spanisches "hay"</comment>
+	</entry>
 </voglet>
