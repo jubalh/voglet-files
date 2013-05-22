@@ -1,48 +1,72 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <voglet>
-   <entry>
-      <word>concise</word>
-      <translation>prägnant</translation>
-   </entry>
-   <entry>
-      <word>to volley</word>
-      <translation>hageln</translation>
-   </entry>
-   <entry>
-      <word>to inflate sth.</word>
-      <translation>aufpumpen</translation>
-   </entry>
-   <entry>
-      <word>to conjure up sth.</word>
-      <translation>etw. heraufbeschwören</translation>
-   </entry>
-   <entry>
-      <word>to conjure</word>
-      <translation>erweitern</translation>
-   </entry>
-   <entry>
-      <word>yonder</word>
-      <translation>dort drüben</translation>
-   </entry>
-   <entry>
-      <word>to revere</word>
-      <translation>ehren</translation>
-   </entry>
-   <entry>
-      <word>exertion</word>
-      <translation>die Betätigung</translation>
-   </entry>
-   <entry>
-      <word>ubiquitous</word>
-      <translation>universell</translation>
-   </entry>
-   <entry>
-      <word>to blend sth.</word>
-      <translation>etw. mischen</translation>
-   </entry>
-   <entry>
-      <word>distort</word>
-      <translation>verfälschen</translation>
-	  <!--The politician said the media had distorted his statement on the environment.-->
-   </entry>
+	<entry>
+		<word>
+			<foreign>concise</foreign>
+			<native>prägnant</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to volley</foreign>
+			<native>hageln</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to inflate sth.</foreign>
+			<native>aufpumpen</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to conjure up sth.</foreign>
+			<native>etw. heraufbeschwören</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to conjure</foreign>
+			<native>erweitern</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>yonder</foreign>
+			<native>dort drüben</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to revere</foreign>
+			<native>ehren</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>exertion</foreign>
+			<native>die Betätigung</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>ubiquitous</foreign>
+			<native>universell</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>to blend sth.</foreign>
+			<native>etw. mischen</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>distort</foreign>
+			<native>verfälschen</native>
+		</word>
+		<sentence>
+			<foreign>The politician said the media had distorted his statement on the environment</foreign>
+		</sentence>
+	</entry>
 </voglet>
