@@ -40,4 +40,9 @@
       <word>to blend sth.</word>
       <translation>etw. mischen</translation>
    </entry>
+   <entry>
+      <word>distort</word>
+      <translation>verfälschen</translation>
+	  <!--The politician said the media had distorted his statement on the environment.-->
+   </entry>
 </voglet>
