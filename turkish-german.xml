@@ -2,8 +2,8 @@
 <voglet>
 	<entry>
 		<word>
-			<foreign>burada</word>
-			<native>hier</translation>
+			<foreign>burada</foreign>
+			<native>hier</native>
 		</word>
 		<sentence>
 			<foreign>Burada iki araba var</foreign>
@@ -12,9 +12,33 @@
 	</entry>
 	<entry>
 		<word>
-			<foreign>var</word>
-			<native>es gibt</translation>
+			<foreign>var</foreign>
+			<native>es gibt</native>
 		</word>
 		<comment>spanisches "hay"</comment>
+	</entry>
+	<entry>
+		<word>
+			<foreign>yüzyıl</foreign>
+			<native>Jahrhundert</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>örümc</foreign>
+			<native>Spinne</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>ölü</foreign>
+			<native>tot</native>
+		</word>
+	</entry>
+	<entry>
+		<word>
+			<foreign>gelmek</foreign>
+			<native>kommen</native>
+		</word>
 	</entry>
 </voglet>
